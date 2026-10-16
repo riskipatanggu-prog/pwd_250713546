@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+main {
+  max-width: 850px;
+  margin: 24px auto;
+  padding: 0 18px;
+}
+.panel {
+  background-color: #ffffff;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  margin: 14px 0;
+  padding: 16px;
+}
+h3 {
+  color: #1d4ed8;
+  margin-top: 0;
+}
+code {
+  background-color: #e2e8f0;
+  padding: 2px 5px;
+  border-radius: 3px;
+}

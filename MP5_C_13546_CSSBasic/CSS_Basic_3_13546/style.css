@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #eef2ff;
+  color: #1f2937;
+  margin: 30px;
+}
+header {
+  text-align: center;
+  background-color: #312e81;
+  color: #ffffff;
+  padding: 20px;
+}
+h1 {
+  margin: 0;
+  color: #ffffff;
+}
+.subjudul {
+  margin-bottom: 0;
+  font-size: 18px;
+}
+main {
+  max-width: 760px;
+  margin: 24px auto;
+}
+.kartu {
+  background-color: #ffffff;
+  border: 1px solid #c7d2fe;
+  padding: 20px;
+  border-radius: 10px;
+  line-height: 1.6;
+}
